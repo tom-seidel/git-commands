@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Backup / temporary files
+*.swp
+*.swo
+*~
